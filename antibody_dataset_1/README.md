@@ -22,14 +22,6 @@ The dataset is a csv file with the following entries:
 
 
 
-## Citation
-
-
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7637549.svg)](https://doi.org/10.5281/zenodo.7637549)
-
-
-
 
 
 
