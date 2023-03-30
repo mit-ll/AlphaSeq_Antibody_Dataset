@@ -34,14 +34,6 @@ The dataset is a csv file with the following entries:
 
 
 
-## Citation
-
-
-
-<TODO: zenodo link>
-
-
-
 
 
 
