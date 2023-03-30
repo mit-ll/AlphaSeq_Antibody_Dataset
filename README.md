@@ -15,4 +15,10 @@ information.
 Learning Optimization of Candidate Antibodies Yields Highly Diverse
 Sub-nanomolar Affinity Antibody
 Libraries](https://www.biorxiv.org/content/10.1101/2022.10.07.502662v1) for
-additional information.  
+additional information. 
+
+
+## Citation
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7783546.svg)](https://doi.org/10.5281/zenodo.7783546)
+ 
